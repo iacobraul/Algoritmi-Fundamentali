@@ -1,0 +1,10 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Curs2\Curs2\bin\Debug\Curs2.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Curs2\Curs2\bin\Debug\Curs2.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Curs2\Curs2\bin\Debug\Curs2.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Curs2\Curs2\obj\Debug\Curs2.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Curs2\Curs2\obj\Debug\Curs2.Form1.resources
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Curs2\Curs2\obj\Debug\Curs2.Properties.Resources.resources
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Curs2\Curs2\obj\Debug\Curs2.csproj.GenerateResource.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Curs2\Curs2\obj\Debug\Curs2.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Curs2\Curs2\obj\Debug\Curs2.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Curs2\Curs2\obj\Debug\Curs2.pdb
