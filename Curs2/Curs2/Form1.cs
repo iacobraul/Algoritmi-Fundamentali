@@ -31,7 +31,7 @@ namespace Curs2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < 2200; i++)
+            for (int i = 0; i < 10; i++)
             {
                 cr--;
 
@@ -67,10 +67,27 @@ namespace Curs2
                     case 10: label1.Text = "5"; cr += 100; break;
                 }
 
-                label1.Text = a.Filename();
+                pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+                pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
+                pictureBox3.SizeMode = PictureBoxSizeMode.Zoom;
+                pictureBox4.SizeMode = PictureBoxSizeMode.Zoom;
+                pictureBox5.SizeMode = PictureBoxSizeMode.Zoom;
+
+                pictureBox1.Image = Image.FromFile(@"..\..\cards\" + a.Filename());
+                pictureBox2.Image = Image.FromFile(@"..\..\cards\" + b.Filename());
+                pictureBox3.Image = Image.FromFile(@"..\..\cards\" + c.Filename());
+                pictureBox4.Image = Image.FromFile(@"..\..\cards\" + d.Filename());
+                pictureBox5.Image = Image.FromFile(@"..\..\cards\" + x.Filename());
+
+                //label1.Text = a.Filename();
                 label2.Text = a + " " + b + " " + c + " " + d + " " + x;
                 label3.Text = cr.ToString();
             }
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 
@@ -78,7 +95,7 @@ namespace Curs2
     {
         public string Filename()
         {
-            return color.ToString("00") + value.ToString("00") + "png";
+            return color.ToString("00") + value.ToString("00") + ".png";
         }
         public int value;
         public int color;
@@ -86,7 +103,7 @@ namespace Curs2
         public Card()
         {
             value = rnd.Next(2, 15);
-            color = rnd.Next(0, 4);
+            color = rnd.Next(1, 5);
         }
     }
 }
