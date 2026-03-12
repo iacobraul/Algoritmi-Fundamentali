@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P187\P187\bin\Debug\P187.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P187\P187\bin\Debug\P187.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P187\P187\bin\Debug\P187.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P187\P187\obj\Debug\P187.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P187\P187\obj\Debug\P187.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P187\P187\obj\Debug\P187.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P187\P187\obj\Debug\P187.pdb

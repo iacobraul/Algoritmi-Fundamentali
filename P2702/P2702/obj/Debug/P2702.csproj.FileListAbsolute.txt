@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P2702\P2702\bin\Debug\P2702.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P2702\P2702\bin\Debug\P2702.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P2702\P2702\bin\Debug\P2702.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P2702\P2702\obj\Debug\P2702.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P2702\P2702\obj\Debug\P2702.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P2702\P2702\obj\Debug\P2702.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P2702\P2702\obj\Debug\P2702.pdb
