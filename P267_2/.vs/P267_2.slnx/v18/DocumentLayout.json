@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P267_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22F7EBE0-C060-49A6-88FE-68C321358B39}|P267_2\\P267_2.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\p267_2\\p267_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F7EBE0-C060-49A6-88FE-68C321358B39}|P267_2\\P267_2.csproj|solutionrelative:p267_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F7EBE0-C060-49A6-88FE-68C321358B39}|P267_2\\P267_2.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\p267_2\\p267_2\\unice.out||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22F7EBE0-C060-49A6-88FE-68C321358B39}|P267_2\\P267_2.csproj|solutionrelative:p267_2\\unice.out||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F7EBE0-C060-49A6-88FE-68C321358B39}|P267_2\\P267_2.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\p267_2\\p267_2\\unice.in||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22F7EBE0-C060-49A6-88FE-68C321358B39}|P267_2\\P267_2.csproj|solutionrelative:p267_2\\unice.in||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "unice.out",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P267_2\\P267_2\\unice.out",
+              "RelativeDocumentMoniker": "P267_2\\unice.out",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P267_2\\P267_2\\unice.out",
+              "RelativeToolTip": "P267_2\\unice.out",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-12T08:42:02.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "unice.in",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P267_2\\P267_2\\unice.in",
+              "RelativeDocumentMoniker": "P267_2\\unice.in",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P267_2\\P267_2\\unice.in",
+              "RelativeToolTip": "P267_2\\unice.in",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-12T08:40:58.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P267_2\\P267_2\\Program.cs",
+              "RelativeDocumentMoniker": "P267_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P267_2\\P267_2\\Program.cs",
+              "RelativeToolTip": "P267_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:40:05.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
