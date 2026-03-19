@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab3_ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1D85B6-7492-4342-BA3F-41F804EBCB78}|Lab3_ex1\\Lab3_ex1.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\lab3_ex1\\lab3_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1D85B6-7492-4342-BA3F-41F804EBCB78}|Lab3_ex1\\Lab3_ex1.csproj|solutionrelative:lab3_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab3_ex1\\Lab3_ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3_ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab3_ex1\\Lab3_ex1\\Program.cs",
+              "RelativeToolTip": "Lab3_ex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:10:36.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

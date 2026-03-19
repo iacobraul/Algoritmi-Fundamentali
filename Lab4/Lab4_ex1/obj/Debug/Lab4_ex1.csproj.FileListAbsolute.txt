@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab4\Lab4_ex1\bin\Debug\Lab4_ex1.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab4\Lab4_ex1\bin\Debug\Lab4_ex1.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab4\Lab4_ex1\bin\Debug\Lab4_ex1.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab4\Lab4_ex1\obj\Debug\Lab4_ex1.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab4\Lab4_ex1\obj\Debug\Lab4_ex1.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab4\Lab4_ex1\obj\Debug\Lab4_ex1.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab4\Lab4_ex1\obj\Debug\Lab4_ex1.pdb
