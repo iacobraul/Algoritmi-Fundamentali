@@ -1,0 +1,10 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab5_ex2\Lab5_ex2\obj\Debug\Lab5_ex2.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab5_ex2\Lab5_ex2\obj\Debug\Lab5_ex2.Form1.resources
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab5_ex2\Lab5_ex2\obj\Debug\Lab5_ex2.Properties.Resources.resources
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab5_ex2\Lab5_ex2\obj\Debug\Lab5_ex2.csproj.GenerateResource.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab5_ex2\Lab5_ex2\obj\Debug\Lab5_ex2.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab5_ex2\Lab5_ex2\bin\Debug\Lab5_ex2.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab5_ex2\Lab5_ex2\bin\Debug\Lab5_ex2.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab5_ex2\Lab5_ex2\bin\Debug\Lab5_ex2.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab5_ex2\Lab5_ex2\obj\Debug\Lab5_ex2.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab5_ex2\Lab5_ex2\obj\Debug\Lab5_ex2.pdb
