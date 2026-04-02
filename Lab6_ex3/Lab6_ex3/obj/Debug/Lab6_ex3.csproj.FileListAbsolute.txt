@@ -1,0 +1,10 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab6_ex3\Lab6_ex3\bin\Debug\Lab6_ex3.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab6_ex3\Lab6_ex3\bin\Debug\Lab6_ex3.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab6_ex3\Lab6_ex3\bin\Debug\Lab6_ex3.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab6_ex3\Lab6_ex3\obj\Debug\Lab6_ex3.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab6_ex3\Lab6_ex3\obj\Debug\Lab6_ex3.Form1.resources
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab6_ex3\Lab6_ex3\obj\Debug\Lab6_ex3.Properties.Resources.resources
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab6_ex3\Lab6_ex3\obj\Debug\Lab6_ex3.csproj.GenerateResource.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab6_ex3\Lab6_ex3\obj\Debug\Lab6_ex3.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab6_ex3\Lab6_ex3\obj\Debug\Lab6_ex3.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab6_ex3\Lab6_ex3\obj\Debug\Lab6_ex3.pdb
