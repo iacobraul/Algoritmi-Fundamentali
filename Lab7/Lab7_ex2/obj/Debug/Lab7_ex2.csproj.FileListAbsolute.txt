@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab7\Lab7_ex2\obj\Debug\Lab7_ex2.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab7\Lab7_ex2\obj\Debug\Lab7_ex2.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab7\Lab7_ex2\bin\Debug\Lab7_ex2.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab7\Lab7_ex2\bin\Debug\Lab7_ex2.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab7\Lab7_ex2\bin\Debug\Lab7_ex2.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab7\Lab7_ex2\obj\Debug\Lab7_ex2.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Lab7\Lab7_ex2\obj\Debug\Lab7_ex2.pdb
