@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P267\bin\Debug\P267.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P267\bin\Debug\P267.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P267\bin\Debug\P267.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P267\obj\Debug\P267.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P267\obj\Debug\P267.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P267\obj\Debug\P267.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P267\obj\Debug\P267.pdb

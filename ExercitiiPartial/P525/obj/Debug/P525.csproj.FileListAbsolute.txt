@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P525\bin\Debug\P525.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P525\bin\Debug\P525.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P525\bin\Debug\P525.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P525\obj\Debug\P525.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P525\obj\Debug\P525.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P525\obj\Debug\P525.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P525\obj\Debug\P525.pdb
