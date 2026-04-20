@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P4006\bin\Debug\P4006.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P4006\bin\Debug\P4006.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P4006\bin\Debug\P4006.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P4006\obj\Debug\P4006.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P4006\obj\Debug\P4006.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P4006\obj\Debug\P4006.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P4006\obj\Debug\P4006.pdb

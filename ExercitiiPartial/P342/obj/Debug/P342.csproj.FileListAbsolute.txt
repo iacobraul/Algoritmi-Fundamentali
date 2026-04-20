@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P342\bin\Debug\P342.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P342\bin\Debug\P342.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P342\bin\Debug\P342.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P342\obj\Debug\P342.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P342\obj\Debug\P342.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P342\obj\Debug\P342.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P342\obj\Debug\P342.pdb

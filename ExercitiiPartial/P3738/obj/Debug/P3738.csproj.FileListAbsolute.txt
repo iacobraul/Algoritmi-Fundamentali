@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P3738\bin\Debug\P3738.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P3738\bin\Debug\P3738.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P3738\bin\Debug\P3738.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P3738\obj\Debug\P3738.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P3738\obj\Debug\P3738.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P3738\obj\Debug\P3738.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\P3738\obj\Debug\P3738.pdb

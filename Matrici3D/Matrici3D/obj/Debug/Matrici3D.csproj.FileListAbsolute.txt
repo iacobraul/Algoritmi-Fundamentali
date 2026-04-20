@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Matrici3D\Matrici3D\obj\Debug\Matrici3D.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Matrici3D\Matrici3D\obj\Debug\Matrici3D.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Matrici3D\Matrici3D\bin\Debug\Matrici3D.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Matrici3D\Matrici3D\bin\Debug\Matrici3D.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Matrici3D\Matrici3D\bin\Debug\Matrici3D.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Matrici3D\Matrici3D\obj\Debug\Matrici3D.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Matrici3D\Matrici3D\obj\Debug\Matrici3D.pdb

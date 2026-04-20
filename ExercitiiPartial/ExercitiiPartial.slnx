@@ -2,8 +2,14 @@
   <Folder Name="/Solution Items/">
     <File Path="data.in" />
   </Folder>
-  <Project Path="ExercitiiPartial/ExercitiiPartial.csproj" />
-  <Project Path="P187/P187.csproj" />
-  <Project Path="P267/P267.csproj" />
-  <Project Path="P525/P525.csproj" />
+  <Project Path="ExercitiiPartial/ExercitiiPartial.csproj" Id="9f57ff35-bb0a-4307-adcb-5eb87b81d7cd" />
+  <Project Path="P187/P187.csproj" Id="fd8ea30a-8c15-4a75-a6ec-8d8acb489951" />
+  <Project Path="P1952/P1952.csproj" Id="da64fe84-f7ff-461d-ada3-dcc7959e7d52" />
+  <Project Path="P2271/P2271.csproj" Id="3d21ca06-f2e7-4758-93ec-c4354fa11a19" />
+  <Project Path="P267/P267.csproj" Id="024a0f9f-8386-420d-a93f-ffadb050520d" />
+  <Project Path="P342/P342.csproj" Id="1645f06c-02fa-4365-9906-7ff8ed3a3255" />
+  <Project Path="P3738/P3738.csproj" Id="21d770d4-e9cf-4739-908f-0c7d82e35f10" />
+  <Project Path="P4006/P4006.csproj" Id="710240ad-ca56-45b7-b5ab-e6cd2f1b5cba" />
+  <Project Path="P525/P525.csproj" Id="79abf30e-7963-47a5-b9a2-f2a64abcbd1b" />
+  <Project Path="P845/P845.csproj" Id="ec1156be-b2c8-4da6-ab72-0d61e05ab04d" />
 </Solution>

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79ABF30E-7963-47A5-B9A2-F2A64ABCBD1B}|P525\\P525.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\exercitiipartial\\p525\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79ABF30E-7963-47A5-B9A2-F2A64ABCBD1B}|P525\\P525.csproj|solutionrelative:p525\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1645F06C-02FA-4365-9906-7FF8ED3A3255}|P342\\P342.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\exercitiipartial\\p342\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1645F06C-02FA-4365-9906-7FF8ED3A3255}|P342\\P342.csproj|solutionrelative:p342\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECB46F9E-0EA5-4816-96C1-F506722C2929}|Solution Items{ECB46F9E-0EA5-4816-96C1-F506722C2929}|C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{ECB46F9E-0EA5-4816-96C1-F506722C2929}|Solution Items{ECB46F9E-0EA5-4816-96C1-F506722C2929}|solutionrelative:data.in||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1645F06C-02FA-4365-9906-7FF8ED3A3255}|P342\\P342.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\exercitiipartial\\p342\\soarece.in||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1645F06C-02FA-4365-9906-7FF8ED3A3255}|P342\\P342.csproj|solutionrelative:p342\\soarece.in||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1645F06C-02FA-4365-9906-7FF8ED3A3255}|P342\\P342.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\exercitiipartial\\p342\\soarece.out||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1645F06C-02FA-4365-9906-7FF8ED3A3255}|P342\\P342.csproj|solutionrelative:p342\\soarece.out||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "data.in",
-              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\data.in",
-              "RelativeDocumentMoniker": "data.in",
-              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\data.in",
-              "RelativeToolTip": "data.in",
+              "DocumentIndex": 2,
+              "Title": "soarece.out",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\P342\\soarece.out",
+              "RelativeDocumentMoniker": "P342\\soarece.out",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\P342\\soarece.out",
+              "RelativeToolTip": "P342\\soarece.out",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-15T08:11:30.361Z",
+              "WhenOpened": "2026-04-20T14:10:17.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "soarece.in",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\P342\\soarece.in",
+              "RelativeDocumentMoniker": "P342\\soarece.in",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\P342\\soarece.in",
+              "RelativeToolTip": "P342\\soarece.in",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-20T14:10:04.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\P525\\Program.cs",
-              "RelativeDocumentMoniker": "P525\\Program.cs",
-              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\P525\\Program.cs*",
-              "RelativeToolTip": "P525\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCgAAAApAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\P342\\Program.cs",
+              "RelativeDocumentMoniker": "P342\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\ExercitiiPartial\\P342\\Program.cs*",
+              "RelativeToolTip": "P342\\Program.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T08:10:58.439Z",
+              "WhenOpened": "2026-04-20T14:04:31.366Z",
               "EditorCaption": ""
             }
           ]

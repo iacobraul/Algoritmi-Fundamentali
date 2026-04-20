@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\ExercitiiPartial\bin\Debug\ExercitiiPartial.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\ExercitiiPartial\bin\Debug\ExercitiiPartial.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\ExercitiiPartial\bin\Debug\ExercitiiPartial.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\ExercitiiPartial\obj\Debug\ExercitiiPartial.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\ExercitiiPartial\obj\Debug\ExercitiiPartial.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\ExercitiiPartial\obj\Debug\ExercitiiPartial.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\ExercitiiPartial\ExercitiiPartial\obj\Debug\ExercitiiPartial.pdb
