@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Lab7/Lab7.csproj" />
-  <Project Path="Lab7_ex2/Lab7_ex2.csproj" />
-  <Project Path="Lab7_ex3/Lab7_ex3.csproj" />
+  <Project Path="Lab7/Lab7.csproj" Id="69ccd7a9-f31c-4903-b105-91d26465156f" />
+  <Project Path="Lab7_ex2/Lab7_ex2.csproj" Id="e49ad4ab-fb53-423d-8a4a-7ad496230f40" />
+  <Project Path="Lab7_ex3/Lab7_ex3.csproj" Id="83780713-c410-4cca-8061-af20c115798f" />
 </Solution>

@@ -7,7 +7,6 @@ namespace Lab7_ex3
     {
         static void Main(string[] args)
         {
-            // Citire date
             TextReader load = new StreamReader(@"../../data.in");
             string[] size = load.ReadLine().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
             int n = int.Parse(size[0]);
