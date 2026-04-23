@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex1Partial\Ex1Partial\bin\Debug\Ex1Partial.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex1Partial\Ex1Partial\bin\Debug\Ex1Partial.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex1Partial\Ex1Partial\bin\Debug\Ex1Partial.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex1Partial\Ex1Partial\obj\Debug\Ex1Partial.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex1Partial\Ex1Partial\obj\Debug\Ex1Partial.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex1Partial\Ex1Partial\obj\Debug\Ex1Partial.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex1Partial\Ex1Partial\obj\Debug\Ex1Partial.pdb

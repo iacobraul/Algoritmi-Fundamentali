@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex1Partial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9946FB30-BC1E-4EA1-9DC2-F4E5A571209D}|Ex1Partial\\Ex1Partial.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\ex1partial\\ex1partial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9946FB30-BC1E-4EA1-9DC2-F4E5A571209D}|Ex1Partial\\Ex1Partial.csproj|solutionrelative:ex1partial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex1Partial\\Ex1Partial\\Program.cs",
+              "RelativeDocumentMoniker": "Ex1Partial\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex1Partial\\Ex1Partial\\Program.cs*",
+              "RelativeToolTip": "Ex1Partial\\Program.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:22:24.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

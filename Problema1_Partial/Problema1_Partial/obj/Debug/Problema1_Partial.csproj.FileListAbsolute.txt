@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Problema1_Partial\Problema1_Partial\bin\Debug\Problema1_Partial.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Problema1_Partial\Problema1_Partial\bin\Debug\Problema1_Partial.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Problema1_Partial\Problema1_Partial\bin\Debug\Problema1_Partial.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Problema1_Partial\Problema1_Partial\obj\Debug\Problema1_Partial.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Problema1_Partial\Problema1_Partial\obj\Debug\Problema1_Partial.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Problema1_Partial\Problema1_Partial\obj\Debug\Problema1_Partial.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Problema1_Partial\Problema1_Partial\obj\Debug\Problema1_Partial.pdb
