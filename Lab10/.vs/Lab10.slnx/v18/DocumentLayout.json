@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{1FF3677C-98C1-4AE2-A808-985AC5E638DC}|Lab10\\Lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FF3677C-98C1-4AE2-A808-985AC5E638DC}|Lab10\\Lab10.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\lab10\\lab10\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{1FF3677C-98C1-4AE2-A808-985AC5E638DC}|Lab10\\Lab10.csproj|C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab10\\lab10\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{1FF3677C-98C1-4AE2-A808-985AC5E638DC}|Lab10\\Lab10.csproj|solutionrelative:lab10\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Lab10\\data.in",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-07T07:13:21.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:13:21.843Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Lab10\\Program.cs",
               "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab10\\Lab10\\Program.cs",
               "RelativeToolTip": "Lab10\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T07:09:30.959Z",
               "EditorCaption": ""
