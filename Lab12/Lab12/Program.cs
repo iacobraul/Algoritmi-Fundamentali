@@ -17,7 +17,7 @@ namespace Lab12
             Console.WriteLine("3 Tije");
             Hanoi3(n, A, B, C);
 
-            Console.WriteLine("\n 4 Tije");
+            Console.WriteLine("\n4 Tije");
             Hanoi4(n, A, B, C, D);
         }
         static void Hanoi3(int n, char A, char B, char C)
