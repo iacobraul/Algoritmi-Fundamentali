@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4794CF6C-A5A3-4EE0-BD18-5EDACED77DE0}|Lab12\\Lab12.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\lab12\\lab12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4794CF6C-A5A3-4EE0-BD18-5EDACED77DE0}|Lab12\\Lab12.csproj|solutionrelative:lab12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab12\\Lab12\\Program.cs",
+              "RelativeDocumentMoniker": "Lab12\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab12\\Lab12\\Program.cs*",
+              "RelativeToolTip": "Lab12\\Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:13:24.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
