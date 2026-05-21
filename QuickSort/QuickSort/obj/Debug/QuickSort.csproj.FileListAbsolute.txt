@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
