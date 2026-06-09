@@ -11,7 +11,7 @@ namespace QuickSort
     {
         static void Main(string[] args)
         {
-            int[] v = { 8, 29, 7, 0, 5, 4, 4, 33, 21, 7 };
+            int[] v = { 8, 29, 7, 0, 42, 81, 9, 5, 4, 4, 33, 21, 7 };
             QuickSort(v, 0, v.Length - 1);
             for (int i = 0; i < v.Length; i++) 
             {

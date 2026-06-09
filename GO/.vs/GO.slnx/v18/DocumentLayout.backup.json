@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\go\\go\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|solutionrelative:go\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\go\\go\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|solutionrelative:go\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\go\\go\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|solutionrelative:go\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\go\\go\\demo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|solutionrelative:go\\demo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "demo.txt",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\demo.txt",
+              "RelativeDocumentMoniker": "GO\\demo.txt",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\demo.txt",
+              "RelativeToolTip": "GO\\demo.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-04T08:12:46.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\Form1.cs",
+              "RelativeDocumentMoniker": "GO\\Form1.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\Form1.cs",
+              "RelativeToolTip": "GO\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T08:00:04.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\Tile.cs",
+              "RelativeDocumentMoniker": "GO\\Tile.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\Tile.cs",
+              "RelativeToolTip": "GO\\Tile.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAIAwwF4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:52:22.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\Form1.cs",
+              "RelativeDocumentMoniker": "GO\\Form1.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\Form1.cs [Design]",
+              "RelativeToolTip": "GO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:51:58.702Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

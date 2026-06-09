@@ -1,0 +1,10 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\GO\GO\bin\Debug\GO.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\GO\GO\bin\Debug\GO.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\GO\GO\bin\Debug\GO.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\GO\GO\obj\Debug\GO.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\GO\GO\obj\Debug\GO.Form1.resources
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\GO\GO\obj\Debug\GO.Properties.Resources.resources
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\GO\GO\obj\Debug\GO.csproj.GenerateResource.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\GO\GO\obj\Debug\GO.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\GO\GO\obj\Debug\GO.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\GO\GO\obj\Debug\GO.pdb
