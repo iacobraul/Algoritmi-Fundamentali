@@ -1,0 +1,10 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex7_R2\Ex7_R2\bin\Debug\Ex7_R2.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex7_R2\Ex7_R2\bin\Debug\Ex7_R2.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex7_R2\Ex7_R2\bin\Debug\Ex7_R2.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex7_R2\Ex7_R2\obj\Debug\Ex7_R2.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex7_R2\Ex7_R2\obj\Debug\Ex7_R2.Form1.resources
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex7_R2\Ex7_R2\obj\Debug\Ex7_R2.Properties.Resources.resources
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex7_R2\Ex7_R2\obj\Debug\Ex7_R2.csproj.GenerateResource.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex7_R2\Ex7_R2\obj\Debug\Ex7_R2.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex7_R2\Ex7_R2\obj\Debug\Ex7_R2.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex7_R2\Ex7_R2\obj\Debug\Ex7_R2.pdb
