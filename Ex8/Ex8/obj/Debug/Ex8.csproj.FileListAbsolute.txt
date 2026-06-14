@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex8\Ex8\bin\Debug\Ex8.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex8\Ex8\bin\Debug\Ex8.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex8\Ex8\bin\Debug\Ex8.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex8\Ex8\obj\Debug\Ex8.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex8\Ex8\obj\Debug\Ex8.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex8\Ex8\obj\Debug\Ex8.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex8\Ex8\obj\Debug\Ex8.pdb

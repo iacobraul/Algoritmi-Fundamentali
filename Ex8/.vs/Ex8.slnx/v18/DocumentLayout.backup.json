@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73025FCC-64B0-4B17-8864-29F548B86E5A}|Ex8\\Ex8.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\ex8\\ex8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73025FCC-64B0-4B17-8864-29F548B86E5A}|Ex8\\Ex8.csproj|solutionrelative:ex8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73025FCC-64B0-4B17-8864-29F548B86E5A}|Ex8\\Ex8.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\ex8\\ex8\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73025FCC-64B0-4B17-8864-29F548B86E5A}|Ex8\\Ex8.csproj|solutionrelative:ex8\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.in",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex8\\Ex8\\data.in",
+              "RelativeDocumentMoniker": "Ex8\\data.in",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex8\\Ex8\\data.in",
+              "RelativeToolTip": "Ex8\\data.in",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-14T10:02:10.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex8\\Ex8\\Program.cs",
+              "RelativeDocumentMoniker": "Ex8\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex8\\Ex8\\Program.cs*",
+              "RelativeToolTip": "Ex8\\Program.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswEMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T10:01:22.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
