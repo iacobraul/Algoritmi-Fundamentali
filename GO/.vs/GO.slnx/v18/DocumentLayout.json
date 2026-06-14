@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|solutionrelative:go\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\go\\go\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\go\\demo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|solutionrelative:go\\demo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\go\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|solutionrelative:go\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\go\\go\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\go\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|solutionrelative:go\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\go\\go\\demo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0FF0E06C-4293-48A7-92D7-868DD2C5C478}|GO\\GO.csproj|solutionrelative:go\\demo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "demo.txt",
               "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\demo.txt",
               "RelativeDocumentMoniker": "GO\\demo.txt",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\Form1.cs",
               "RelativeDocumentMoniker": "GO\\Form1.cs",
@@ -66,14 +66,14 @@
               "RelativeDocumentMoniker": "GO\\Tile.cs",
               "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\Tile.cs",
               "RelativeToolTip": "GO\\Tile.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAIAwwF4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwFEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T07:52:22.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\GO\\GO\\Form1.cs",
               "RelativeDocumentMoniker": "GO\\Form1.cs",

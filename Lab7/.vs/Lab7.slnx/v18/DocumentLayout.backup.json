@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83780713-C410-4CCA-8061-AF20C115798F}|Lab7_ex3\\Lab7_ex3.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\lab7\\lab7_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83780713-C410-4CCA-8061-AF20C115798F}|Lab7_ex3\\Lab7_ex3.csproj|solutionrelative:lab7_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69CCD7A9-F31C-4903-B105-91D26465156F}|Lab7\\Lab7.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\lab7\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CCD7A9-F31C-4903-B105-91D26465156F}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83780713-C410-4CCA-8061-AF20C115798F}|Lab7_ex3\\Lab7_ex3.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\lab7\\lab7_ex3\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{83780713-C410-4CCA-8061-AF20C115798F}|Lab7_ex3\\Lab7_ex3.csproj|solutionrelative:lab7_ex3\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{69CCD7A9-F31C-4903-B105-91D26465156F}|Lab7\\Lab7.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\lab7\\lab7\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69CCD7A9-F31C-4903-B105-91D26465156F}|Lab7\\Lab7.csproj|solutionrelative:lab7\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "data.in",
-              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab7\\Lab7_ex3\\data.in",
-              "RelativeDocumentMoniker": "Lab7_ex3\\data.in",
-              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab7\\Lab7_ex3\\data.in",
-              "RelativeToolTip": "Lab7_ex3\\data.in",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab7\\Lab7\\data.in",
+              "RelativeDocumentMoniker": "Lab7\\data.in",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab7\\Lab7\\data.in",
+              "RelativeToolTip": "Lab7\\data.in",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-14T07:03:37.592Z",
+              "WhenOpened": "2026-06-13T10:48:45.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab7\\Lab7_ex3\\Program.cs",
-              "RelativeDocumentMoniker": "Lab7_ex3\\Program.cs",
-              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab7\\Lab7_ex3\\Program.cs",
-              "RelativeToolTip": "Lab7_ex3\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab7\\Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab7\\Lab7\\Program.cs",
+              "RelativeToolTip": "Lab7\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T07:01:50.768Z",
+              "WhenOpened": "2026-06-13T10:48:44.293Z",
               "EditorCaption": ""
             }
           ]

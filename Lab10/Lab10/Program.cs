@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Schema;
-
+//Se da o matrice de val int. Det dimensiunea celui mai mare platou. Prin platou se intelege o colectie de elemente vecine (in sus, jos, stanga, dreapta) cu aceeasi valoare.
 namespace Lab10
 {
     internal class Program

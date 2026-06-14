@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D16D8-3D2C-4EF4-9225-EAB3DD557C5C}|Ex6\\Ex6.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\ex6\\ex6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D16D8-3D2C-4EF4-9225-EAB3DD557C5C}|Ex6\\Ex6.csproj|solutionrelative:ex6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D16D8-3D2C-4EF4-9225-EAB3DD557C5C}|Ex6\\Ex6.csproj|C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex6\\ex6\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F66D16D8-3D2C-4EF4-9225-EAB3DD557C5C}|Ex6\\Ex6.csproj|solutionrelative:ex6\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D16D8-3D2C-4EF4-9225-EAB3DD557C5C}|Ex6\\Ex6.csproj|C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex6\\ex6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F66D16D8-3D2C-4EF4-9225-EAB3DD557C5C}|Ex6\\Ex6.csproj|solutionrelative:ex6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.in",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex6\\Ex6\\data.in",
+              "RelativeDocumentMoniker": "Ex6\\data.in",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex6\\Ex6\\data.in",
+              "RelativeToolTip": "Ex6\\data.in",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-14T06:36:10.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex6\\Ex6\\Form1.cs",
+              "RelativeDocumentMoniker": "Ex6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex6\\Ex6\\Form1.cs*",
+              "RelativeToolTip": "Ex6\\Form1.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:31:04.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex6\\Ex6\\Form1.cs",
+              "RelativeDocumentMoniker": "Ex6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Ex6\\Ex6\\Form1.cs [Design]",
+              "RelativeToolTip": "Ex6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:30:45.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{8BD56EC3-581F-495C-BA03-E478EC5A30A4}|Lab8\\Lab8.csproj|solutionrelative:lab8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BD56EC3-581F-495C-BA03-E478EC5A30A4}|Lab8\\Lab8.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\lab8\\lab8\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8BD56EC3-581F-495C-BA03-E478EC5A30A4}|Lab8\\Lab8.csproj|C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab8\\lab8\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8BD56EC3-581F-495C-BA03-E478EC5A30A4}|Lab8\\Lab8.csproj|solutionrelative:lab8\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BD56EC3-581F-495C-BA03-E478EC5A30A4}|Lab8\\Lab8.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\lab8\\lab8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8BD56EC3-581F-495C-BA03-E478EC5A30A4}|Lab8\\Lab8.csproj|C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab8\\lab8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BD56EC3-581F-495C-BA03-E478EC5A30A4}|Lab8\\Lab8.csproj|solutionrelative:lab8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -47,9 +47,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab8\\Lab8\\Form1.cs",
               "RelativeDocumentMoniker": "Lab8\\Form1.cs",
-              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab8\\Lab8\\Form1.cs*",
-              "RelativeToolTip": "Lab8\\Form1.cs*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAgwGYAAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab8\\Lab8\\Form1.cs",
+              "RelativeToolTip": "Lab8\\Form1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwEMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T07:18:58.608Z",
               "EditorCaption": ""
@@ -60,8 +60,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab8\\Lab8\\Form1.cs",
               "RelativeDocumentMoniker": "Lab8\\Form1.cs",
-              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab8\\Lab8\\Form1.cs [Design]*",
-              "RelativeToolTip": "Lab8\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\Lab8\\Lab8\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab8\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T07:18:43.707Z",
               "EditorCaption": " [Design]"

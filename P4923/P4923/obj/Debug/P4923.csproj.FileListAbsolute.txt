@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P4923\P4923\obj\Debug\P4923.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P4923\P4923\obj\Debug\P4923.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P4923\P4923\bin\Debug\P4923.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P4923\P4923\bin\Debug\P4923.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P4923\P4923\bin\Debug\P4923.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P4923\P4923\obj\Debug\P4923.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\P4923\P4923\obj\Debug\P4923.pdb

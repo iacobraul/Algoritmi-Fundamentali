@@ -1,0 +1,74 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Security.Cryptography.X509Certificates;
+
+//Sus pe cerul nopții, stelele strălucitoare apar în roiuri de diferite forme. Un roi este un grup nevid de stele vecine, adiacente în direcție orizontală, verticală sau diagonală.
+//Un roi nu poate face parte dintr-un roi mai mare. Roiurile pot fi similare. Două roiuri sunt similare dacă au aceeași formă și număr de stele, indiferent de orientarea lor.
+//În general, numărul de orientări posibile pentru un roi este de opt, așa cum exemplifică Figura 1, în care se văd opt roiuri similare.
+//Având o hartă a cerului, marcați toate grupurile de stele cu litere mici. Grupurile similare trebuie marcate cu aceeași literă; grupurile nesimilare trebuie marcate cu litere diferite.
+//Marcați un grup cu o literă mică prin înlocuirea fiecărui 1 din grup cu acea literă mică. Marcarea se va face astfel: se parcurge matricea binară asociată cerului de sus în jos și de la stânga la dreapta.
+//Primul grup găsit îl veți marca folosind litera a, al doilea găsit și nesimilar cu primul în veți marca cu b ș.a.m.d.
+//Fișierul de intrare starrynight.in conține pe prima linie n reprezentând numărul de linii ale matricei, pe a doua linie m reprezentând numărul de coloane ale matricei.
+//Harta cerului este apoi dată prin câte m valori binare aflate pe următoarele n linii.
+//Fișierul de ieșire starrynight.out va conține aceeași hartă, dar grupurile sunt marcate așa cum s-a descris în cerință.
+namespace P4923
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //declarare
+            TextReader load = new StreamReader(@"../../starrynight.in");
+            StreamWriter save = new StreamWriter(@"../../starrynight.out");
+            int m = int.Parse(load.ReadLine());
+            int n = int.Parse(load.ReadLine());
+            // rows = n, cols = m (input provides m values on each of the n lines)
+            int[,] stars = new int[n, m];
+            int i = 0;
+            string buffer;
+            //citire
+            while ((buffer = load.ReadLine()) != null && i < n)
+            {
+                string[] data = buffer.Split(' ');
+                if (data.Length != m) throw new InvalidDataException($"Expected {m} columns but got {data.Length} on line {i + 1}");
+                for (int j = 0; j < m; j++)
+                {
+                    stars[i, j] = int.Parse(data[j]);
+                }
+                i++;
+            }
+            MarkGroup(stars, 0, 0, 'a');
+
+            for (i = 0; i < n; i++)
+            {
+                for (int j = 0; j < m; j++)
+                {
+                    save.Write(stars[i, j] + " ");
+                }
+                save.WriteLine();
+            }
+            load.Close();
+            save.Close();
+        }
+        public static void MarkGroup(int[,] stars, int x, int y, char mark)
+        {   
+            if (stars[x, y] == 0) MarkGroup(stars, x + 1, y + 1, mark);
+            else
+            {
+                stars[x, y] = mark;
+                MarkGroup(stars, x + 1, y, mark);
+                MarkGroup(stars, x - 1, y, mark);
+                MarkGroup(stars, x, y + 1, mark);
+                MarkGroup(stars, x, y - 1, mark);
+                MarkGroup(stars, x + 1, y + 1, mark);
+                MarkGroup(stars, x - 1, y - 1, mark);
+                MarkGroup(stars, x + 1, y - 1, mark);
+                MarkGroup(stars, x - 1, y + 1, mark);
+            }
+        }
+    }
+}

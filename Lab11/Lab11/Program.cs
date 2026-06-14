@@ -5,7 +5,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
-
+//Permutari de n elemente, astfel incat sa nu existe doua elemente care sa fie pe aceeasi diagonala, linie sau coloana. Se vor afisa toate solutiile posibile. Se va citi n de la tastatura.
 namespace Lab11
 {
     internal class Program

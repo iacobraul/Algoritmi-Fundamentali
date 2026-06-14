@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex5\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex5\Ex5\bin\Debug\Ex5.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex5\Ex5\bin\Debug\Ex5.pdb
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex5\Ex5\obj\Debug\Ex5.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex5\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex5\Ex5\obj\Debug\Ex5.exe
+C:\Users\Raul\source\repos\Algoritmi-Fundamentali\Ex5\Ex5\obj\Debug\Ex5.pdb

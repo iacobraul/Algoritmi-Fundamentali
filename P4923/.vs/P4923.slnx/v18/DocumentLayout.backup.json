@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P4923\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F637B2-D3DB-475F-8784-07C9618386FE}|P4923\\P4923.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\p4923\\p4923\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F637B2-D3DB-475F-8784-07C9618386FE}|P4923\\P4923.csproj|solutionrelative:p4923\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F637B2-D3DB-475F-8784-07C9618386FE}|P4923\\P4923.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\p4923\\p4923\\starrynight.in||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5F637B2-D3DB-475F-8784-07C9618386FE}|P4923\\P4923.csproj|solutionrelative:p4923\\starrynight.in||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F637B2-D3DB-475F-8784-07C9618386FE}|P4923\\P4923.csproj|c:\\users\\raul\\source\\repos\\algoritmi-fundamentali\\p4923\\p4923\\starrynight.out||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5F637B2-D3DB-475F-8784-07C9618386FE}|P4923\\P4923.csproj|solutionrelative:p4923\\starrynight.out||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "starrynight.out",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P4923\\P4923\\starrynight.out",
+              "RelativeDocumentMoniker": "P4923\\starrynight.out",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P4923\\P4923\\starrynight.out",
+              "RelativeToolTip": "P4923\\starrynight.out",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-13T10:37:33.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "starrynight.in",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P4923\\P4923\\starrynight.in",
+              "RelativeDocumentMoniker": "P4923\\starrynight.in",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P4923\\P4923\\starrynight.in",
+              "RelativeToolTip": "P4923\\starrynight.in",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-13T10:07:22.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P4923\\P4923\\Program.cs",
+              "RelativeDocumentMoniker": "P4923\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\Algoritmi-Fundamentali\\P4923\\P4923\\Program.cs*",
+              "RelativeToolTip": "P4923\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T10:05:42.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
